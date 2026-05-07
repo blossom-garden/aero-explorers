@@ -1,0 +1,13 @@
+name = "Aero Explorers"
+author = "kodiitulip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc614d1fa569d6b4a2d98802f19fb730f2836c8f296fbe650702cacadf9b449c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

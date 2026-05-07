@@ -1,0 +1,13 @@
+name = "Punchy!"
+filename = "punchy-2.5.3-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/KmXREXF2/punchy-2.5.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8b56fd5b1494b47144b3cc4ba9a54eab04fb35a782c0855ab9fc26be7aeb107e734304dc2ac102176f6e00a52932c60ed17d87128083acb1c8270d9d809df5de"
+
+[update]
+[update.modrinth]
+mod-id = "8aoMKplv"
+version = "KmXREXF2"

@@ -1,0 +1,13 @@
+name = "Better Redstone Torches"
+filename = "redstone-torch-update-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j9QlmOcz/versions/wlLCHNt7/redstone-torch-update-1.1.jar"
+hash-format = "sha512"
+hash = "b8b1473dde630c0d254b36eeb8da97aed72c6c14cab4ce1fa5c24b805fc87433f3cf115bc4ff33c508f760d6476467e7bc2ef8b8908143d2eeeb10e4b32db29b"
+
+[update]
+[update.modrinth]
+mod-id = "j9QlmOcz"
+version = "wlLCHNt7"

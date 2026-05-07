@@ -1,0 +1,13 @@
+name = "Analog Audio"
+filename = "Analog-Audio-0.1.0-beta.3-hotfix1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/lqqmWebx/Analog-Audio-0.1.0-beta.3-hotfix1.jar"
+hash-format = "sha512"
+hash = "96a77148cb15cdd02895bbe3160c0938449d4c9a496fc0ccdcd04a556cd963f76c4fe87a4b74eb170bba7bb6bc2dd88c235a1e68bb8ce19bac06250b860351e2"
+
+[update]
+[update.modrinth]
+mod-id = "iMAVG2nH"
+version = "lqqmWebx"
