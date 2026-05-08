@@ -941,6 +941,14 @@ file = "resourcelist.txt"
 hash = "9314595e1e890d41df59ced462953adbbfd57ba49c7a48c223e52249c257d347"
 
 [[files]]
+file = "resourcepacks/FA+Player-vJE.zip"
+hash = "eb4dc993e8764b3762a1e56ec3e8714a295fd0061b815f99da2e1cd467456062"
+
+[[files]]
+file = "resourcepacks/Ghasts Galore! Updated.zip"
+hash = "337bd002913e46fd172088c5f359d139be6350fb9e19062addeb41a1e89bf309"
+
+[[files]]
 file = "resourcepacks/computer-craft-recreated.pw.toml"
 hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
 metafile = true
