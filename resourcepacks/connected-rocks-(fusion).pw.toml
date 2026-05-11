@@ -1,0 +1,13 @@
+name = "Connected Rocks (Fusion)"
+filename = "Connected Rocks (Fusion) v1.0 (1.21.4 - 1.21.8).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/55BgSDaZ/versions/hpto0bgD/Connected%20Rocks%20%28Fusion%29%20v1.0%20%281.21.4%20-%201.21.8%29.zip"
+hash-format = "sha512"
+hash = "2e15f8e141b6e35788a385f3971e019b8bcd15ea29858a2ad1fabd32fdd498c074432d6ec1dee1c0e2752e5beb072654dc3fb60609f44599c2d34b983c7fe07c"
+
+[update]
+[update.modrinth]
+mod-id = "55BgSDaZ"
+version = "hpto0bgD"

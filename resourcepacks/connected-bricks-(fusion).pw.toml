@@ -1,0 +1,13 @@
+name = "Connected Bricks (Fusion)"
+filename = "Connected Bricks (Fusion) v1.0 (1.21.4 - 1.21.8).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yuaFoww2/versions/L4M1t1cQ/Connected%20Bricks%20%28Fusion%29%20v1.0%20%281.21.4%20-%201.21.8%29.zip"
+hash-format = "sha512"
+hash = "fe3ea5cb945f31a6f194ef631ef6760e684686852e6b7f2cd2fb1acf3f4c9f1193914346be0df70ba8a9c3e423d3290254a82e9fe5d5e70835a7636a20f02a7e"
+
+[update]
+[update.modrinth]
+mod-id = "yuaFoww2"
+version = "L4M1t1cQ"

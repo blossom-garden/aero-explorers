@@ -30,7 +30,11 @@ hash = "c96a1bfdd319cf783922410b87cee3bccc8155149313c1083e85650d2ff59ad2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ee0a63ead8d3e20469ed9a2ba90180206e276df0703445bd13317f378a74d7e3"
+hash = "7853cbae398c94dac5bad5e6407c85c5d6cf1a545d39761768543036fa5fa3da"
+
+[[files]]
+file = "icon.png"
+hash = "952f44010038c5c2735dff2e828c0b58d62d47a49aa3bc2de1a2a4f84aacdbfa"
 
 [[files]]
 file = "modlist.txt"
@@ -57,13 +61,8 @@ hash = "fb2bbe5935f61871ae9ddc2e40d44c773f62cda0cfc211be22c4717268ad6485"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
-metafile = true
-
-[[files]]
 file = "mods/analog-audio.pw.toml"
-hash = "12380afff24f655352ab28293d26b7cc8b8892a7d49b80636c14b7b7f9dd1183"
+hash = "2f7eccb7481ec4c8bce1df3aa2b7aac29481d546ed0807eb3e23beab307edf5c"
 metafile = true
 
 [[files]]
@@ -83,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
@@ -148,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-sable.pw.toml"
-hash = "2246c742ee8061b1be6ca50cdc9704b4859215cc9e0eb65b52495079003897c7"
+hash = "f4be9e4c8e4b694ed37b14ee0a3cc8196f08c029778db64ddf13b92bf9273d1a"
 metafile = true
 
 [[files]]
@@ -197,11 +196,6 @@ hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -217,8 +211,13 @@ hash = "68a6089104825858beb345ab44c435fff997cf5f1560b39e215574b3e1ae5c2c"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-boat-propellers.pw.toml"
+hash = "32aadd0f7806ba4adf8f88f5494cf2b564b603fee8ca50a1d9dfbc5e48c9c97a"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "ee4f56137ab13768e6623857459f74246f50854498a214ef9f1950feae07bd8b"
+hash = "84345805ff0ded2cd1b591755196c6f1bbb311bd0e8453a3bfd186bbaf3d77cf"
 metafile = true
 
 [[files]]
@@ -337,6 +336,11 @@ hash = "325c491d7bfe66ec0d5fa607d011fa0e6cc21962fec0fba0204f2b579fd8c0bb"
 metafile = true
 
 [[files]]
+file = "mods/create-link-relays.pw.toml"
+hash = "197028853a9748e9c5946d6a86b9382e0fd084fe21e92d5bbb741f86a1eb2eb5"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
@@ -373,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "c3d4075abb0bb32676042cf3ab7c0d22e5378dfb2c47bc425ea748acdf8fda56"
+hash = "9471f671a99e870db23fec3b1800a6a3dd89d2d5c4e67e0da50165cd7bd719ef"
 metafile = true
 
 [[files]]
@@ -432,6 +436,11 @@ hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
 metafile = true
 
 [[files]]
+file = "mods/crle.pw.toml"
+hash = "fd8106ffb9f0310c6769644d42fcb647ebde632e9d27d6763824796b2ce80979"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -448,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "6594fd48f50bc63f70749aba1f6b60132f4601487a40bc7b13906fc175789492"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -468,17 +477,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+hash = "3492cce37b394da6d6b7346ad00fba3b27c1f7a56c9bc9d104141d6ec6a25fd9"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
@@ -543,7 +552,12 @@ metafile = true
 
 [[files]]
 file = "mods/fruits-delight.pw.toml"
-hash = "dbf7c9062dea500b1f85e7c3794e94fd3e2f2cdd9f43c8c5d4b73890406ac899"
+hash = "bd54b25ed6127a176979f89d56ebee73856ff5023c575232ee707571fcdb2c1c"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
 metafile = true
 
 [[files]]
@@ -638,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
+hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
 metafile = true
 
 [[files]]
@@ -668,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "44dde164b3d9e130a8d8dd6ff84bfcc936825465b966a06c7358f0ddf3660fd0"
+hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
 metafile = true
 
 [[files]]
@@ -718,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "91f009784ba1de42e213e57e9e4c300c16d597010e5d5d0e0ca3e5a60485ee49"
+hash = "f74b4a3e1daa07ba04c11a68fecab904b7e1575d45540212aa864ba8ab5c02f0"
 metafile = true
 
 [[files]]
@@ -749,11 +763,6 @@ metafile = true
 [[files]]
 file = "mods/sable-destructive.pw.toml"
 hash = "525e6c4f6acbb2e8c2ba924447ab95f3c624eac798f6131c5b9791a99f3624e0"
-metafile = true
-
-[[files]]
-file = "mods/sable-schematic-tool.pw.toml"
-hash = "cf0da115dba12792ebf721e615beb9d5f2ba2d95c4464948940c4477a7b3363d"
 metafile = true
 
 [[files]]
@@ -827,16 +836,6 @@ hash = "3df81c179b5d2c98d5e339285555e03d1197dc213f8a84bf1e611ea6d036d068"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries-squared.pw.toml"
-hash = "91ebbd7b58f32ec3cf848d203b70ef193675585d6b761de912afdd977ed5f84b"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
-metafile = true
-
-[[files]]
 file = "mods/thick-air.pw.toml"
 hash = "408665374667fb701ab880ed3ba4c24ea7439b9262220784df9236346b5c6cb7"
 metafile = true
@@ -858,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinycreate.pw.toml"
-hash = "2f78d716d9b792de1394f0400f2a5eeab73c76066a41cdf6afefd52e0f672925"
+hash = "0af91d3f6a2237347bef0b1c10b268c75f48ff6f07267149736131063e27440f"
 metafile = true
 
 [[files]]
@@ -894,6 +893,15 @@ metafile = true
 [[files]]
 file = "mods/vb-mob-variants-compat.pw.toml"
 hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
+metafile = true
+
+[[files]]
+file = "mods/voxy-0.2.9-alpha.jar"
+hash = "16144e178f592cb9ff3f062b16c215f9df6b036c66d0626fa2d8797d75317829"
+
+[[files]]
+file = "mods/voxy-auto-lod.pw.toml"
+hash = "c8f9e16a7410a90e0fcd5c5607a30fe90ff5539718e3767b54b57f7799b0c8ec"
 metafile = true
 
 [[files]]
@@ -944,8 +952,31 @@ file = "resourcepacks/Ghasts Galore! Updated.zip"
 hash = "337bd002913e46fd172088c5f359d139be6350fb9e19062addeb41a1e89bf309"
 
 [[files]]
+file = "resourcepacks/aero-explorers-resource/assets/minecraft/textures/title/mojangstudios.png"
+hash = "5465e6753ad2fd916434ed5f6747a87052ce144d6488fd45677f80fe85d2c606"
+
+[[files]]
+file = "resourcepacks/aero-explorers-resource/pack.mcmeta"
+hash = "852c5e566b311bdd8d4a16b37fe895a2a8e3bf6bbbff1da3d6593a82b9d8d935"
+
+[[files]]
 file = "resourcepacks/computer-craft-recreated.pw.toml"
 hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-bricks-(fusion).pw.toml"
+hash = "edaec618c209ab1c52d48560c2ce8af3e56f64a0edd9574d66f70d36f94e90ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths-(fusion).pw.toml"
+hash = "67c5d3040eb751275830aa9d4874c842ca95b390b74d12dec8a7f22014996462"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-rocks-(fusion).pw.toml"
+hash = "2cac0203d23109a5a5f91ffe6d8c4ed6059a46f61b1f55c6b4fd991bf1032ba8"
 metafile = true
 
 [[files]]
@@ -1006,6 +1037,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
 hash = "94141db698374070dbc979de6679471e46d6c62cbb0587be26b9bd7be82b310b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Connected Paths (Fusion)"
+filename = "Connected Paths (Fusion) v1.0 (1.21.4 - 1.21.8).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ogC9TDK2/versions/FFYfowrt/Connected%20Paths%20%28Fusion%29%20v1.0%20%281.21.4%20-%201.21.8%29.zip"
+hash-format = "sha512"
+hash = "d4f71de78bcb977e658360043689e60a2018381c154d690d41b045ec29a57aff6afb96e7fbb1c7d631ca03fe08d97f918a7c8a2ad13b2eb29ab1209377f9571d"
+
+[update]
+[update.modrinth]
+mod-id = "ogC9TDK2"
+version = "FFYfowrt"
