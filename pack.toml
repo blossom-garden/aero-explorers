@@ -1,12 +1,12 @@
 name = "Aero Explorers"
 author = "kodiitulip"
-version = "1.1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4d7a96f719d20dbd94178cd76e65071f005c038759e3d865e05e323657e3e980"
+hash = "6b2ebe335e2e294a2bd5751646f551e112e5915dc97fb4304620efe8584b5738"
 
 [versions]
 minecraft = "1.21.1"
