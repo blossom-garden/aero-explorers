@@ -13,10 +13,6 @@ file = "config/yosbr/config/create-server.toml"
 hash = "db311a6d98bd579a9ddddf2728080c94d147302ad2083edadf36f4592fdb2005"
 
 [[files]]
-file = "config/yosbr/config/createmoreconfigs-server.toml"
-hash = "b8bbe54c101cade496fb1996675a242f6b8371cfec06ec824264a2c35172b6d6"
-
-[[files]]
 file = "config/yosbr/config/skinrestorer/config.json"
 hash = "239d4762740c441698621218ae0da2487f7fc47b033f539b9a3b94c27b505da5"
 
@@ -159,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "89865794f0fbe908f5b5b1c2628df8f9c0aa715313d305f08f922cf7b5c9be9d"
 metafile = true
 
 [[files]]
@@ -344,11 +345,6 @@ metafile = true
 [[files]]
 file = "mods/create-metalwork.pw.toml"
 hash = "2ccd7b4207893b19787f1d94c6df2d41ab114a93d3fffebf51f6914a009c8650"
-metafile = true
-
-[[files]]
-file = "mods/create-more-configs.pw.toml"
-hash = "41c2038eb0a9458debfac2ffa0cead38445fe307794928362acc45029292eae8"
 metafile = true
 
 [[files]]
@@ -922,13 +918,8 @@ hash = "de4a0ed711b423b3adaf02968798c33a3098f5a677a117ed43d6a0f57df3788e"
 metafile = true
 
 [[files]]
-file = "mods/voxy-auto-lod.pw.toml"
-hash = "c8f9e16a7410a90e0fcd5c5607a30fe90ff5539718e3767b54b57f7799b0c8ec"
-metafile = true
-
-[[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "2ec4bb5d0430f8a186a29b9a222e696891eb1c8d68f44ac1050e58173907da9f"
+hash = "8832d60b8992b3256f792621f4a481db699db1db11066816c9093edbf26cbf45"
 metafile = true
 
 [[files]]
