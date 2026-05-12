@@ -154,7 +154,7 @@
 - [Sable: Destructive](https://modrinth.com/project/s8kSCCgD)
 - [Sable](https://modrinth.com/project/T9PomCSv)
 - [Sable: Physics Compat](https://modrinth.com/project/sZbcIrJb)
-- [Seamless Loading Screen ](https://modrinth.com/project/TyTPFOiF)
+- [Seamless Loading Screen](https://modrinth.com/project/TyTPFOiF)
 - [Simple Clouds](https://modrinth.com/project/LtZfKhel)
 - [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)
 - [Simulated Gauges](https://modrinth.com/project/AwDdvIWn)

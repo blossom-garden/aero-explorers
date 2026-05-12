@@ -762,8 +762,9 @@ hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
 metafile = true
 
 [[files]]
-file = "mods/rocketnautics-1.3.3.jar"
-hash = "511f0b9398e269f2d36e2c5fe025c6e369a220cfa108a20abd10cdf52bf6807f"
+file = "mods/rocketnautics-1-3-3-jar.pw.toml"
+hash = "c0aba05e45f85348b5fe746ba609f79278c38c8f0f00c9acff3a6fcdfb155a07"
+metafile = true
 
 [[files]]
 file = "mods/sable-destructive.pw.toml"
@@ -906,8 +907,9 @@ hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.2.9-alpha.jar"
-hash = "16144e178f592cb9ff3f062b16c215f9df6b036c66d0626fa2d8797d75317829"
+file = "mods/voxy-0-2-9-alpha-jar.pw.toml"
+hash = "301285f168e5a7c39a10fceb4ca0e7c9a819cdc1d8c349092a20f361eb4b7f7b"
+metafile = true
 
 [[files]]
 file = "mods/voxy-auto-lod.pw.toml"

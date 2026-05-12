@@ -1,0 +1,8 @@
+name = "voxy-0.2.9-alpha.jar"
+filename = "v.jar"
+side = "both"
+
+[download]
+url = "https://github.com/blossom-garden/aero-explorers/releases/download/coisa/v.jar"
+hash-format = "sha256"
+hash = "16144e178f592cb9ff3f062b16c215f9df6b036c66d0626fa2d8797d75317829"
