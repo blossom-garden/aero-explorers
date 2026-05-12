@@ -1,6 +1,6 @@
 name = "voxy-0.2.9-alpha.jar"
 filename = "v.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/blossom-garden/aero-explorers/releases/download/coisa/v.jar"

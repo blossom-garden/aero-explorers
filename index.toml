@@ -918,7 +918,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-0-2-9-alpha-jar.pw.toml"
-hash = "301285f168e5a7c39a10fceb4ca0e7c9a819cdc1d8c349092a20f361eb4b7f7b"
+hash = "de4a0ed711b423b3adaf02968798c33a3098f5a677a117ed43d6a0f57df3788e"
 metafile = true
 
 [[files]]
