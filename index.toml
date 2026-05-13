@@ -858,6 +858,11 @@ hash = "408665374667fb701ab880ed3ba4c24ea7439b9262220784df9236346b5c6cb7"
 metafile = true
 
 [[files]]
+file = "mods/thirst-canteen.pw.toml"
+hash = "5d906d12543c6519774d640bb1eb8b08784ad757d1f5ee394e65349449cd47d1"
+metafile = true
+
+[[files]]
 file = "mods/thirst-was-taken.pw.toml"
 hash = "7186d80f0afd569ac8ec64d0f78382fe03b092de01d72f722f79b77c1cad4412"
 metafile = true
